@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+.child1 {
+  height: 200px;
+  float: left;
+  padding: 5px;
+}
+.child2 {
+  height: 200px;
+  float: left;
+  padding: 5px;
+}
+.child3 {
+  height: 200px;
+  float: left;
+  padding: 5px;
+}
+
+.child4 {
+  height: 200px;
+  float: left;
+  padding: 5px;
+}
+
+.image{
+    width: 100%;
+    height: 200px;
+}
