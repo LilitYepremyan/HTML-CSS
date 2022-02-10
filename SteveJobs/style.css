@@ -38,7 +38,7 @@ hr {
   height: 1px;
   border: none;
   width: 100%;
-  background-color: rgb(104, 101, 101);
+  background-color: rgb(155, 148, 148);
 }
 .mainInfo {
   margin-left: 120px;
@@ -65,7 +65,7 @@ hr {
   top: 85%;
   width: 70%;
   height: 300px;
-  background-color: rgb(163, 153, 153);
+  background-color: rgb(204, 195, 195);
 }
 .footerInfo {
   font-family: 'Pacifico', cursive;
